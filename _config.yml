@@ -1,11 +1,6 @@
-title: John Doe # your name (or website title) here
+title: Sarah Blankson Stiles Ocran
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+description: A young and energetic Business analyst with good communication and analytical skills working with Word, Excel, Google Sheets, SQL, Tableau, Power BI and Python. My experiences working in an ever-growing, unique and dynamic industry and a special interest in service, research, teaching, and learning have shaped my desire and interest to work with business data to help solve everyday business problems backed by research.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
